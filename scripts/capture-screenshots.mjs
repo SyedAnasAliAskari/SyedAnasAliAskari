@@ -14,17 +14,22 @@ const sites = {
 };
 
 await fs.mkdir("assets/screenshots", { recursive: true });
-const browser = await chromium.launch({headless:true});
-const page = await browser.newPage({ viewport: { width: 1440, height: 900 }, deviceScaleFactor: 1 });
+const browser = await chromium.launch({ headless: true });
 
-for (const [name,url] of Object.entries(sites)) {
+for (const [name, url] of Object.entries(sites)) {
+  const page = await browser.newPage({ viewport: { width: 1440, height: 900 }, deviceScaleFactor: 1 });
   try {
     console.log(`Capturing ${name}: ${url}`);
-    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
-    await page.waitForTimeout(5000);
-    await page.screenshot({ path:`assets/screenshots/${name}.png`, fullPage:false });
-  } catch (e) {
-    console.warn(`Skipped ${name}: ${e.message}`);
+    await page.goto(url, { waitUntil: "networkidle", timeout: 60000 });
+    await page.waitForTimeout(2500);
+    await page.screenshot({
+      path: `assets/screenshots/${name}.png`,
+      fullPage: false
+    });
+  } catch (error) {
+    console.warn(`Capture failed for ${name}: ${error.message}`);
+  } finally {
+    await page.close();
   }
 }
 await browser.close();

@@ -1,5 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="650" viewBox="0 0 1600 650">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05060b"/><stop offset=".55" stop-color="#0e1120"/><stop offset="1" stop-color="#05060b"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="45"/></filter></defs>
-<rect width="1600" height="650" rx="34" fill="url(#g)"/><circle cx="1250" cy="130" r="240" fill="#705cff" opacity=".2" filter="url(#b)"/>
-<g transform="translate(955 110) skewY(-4)"><rect width="470" height="285" rx="22" fill="#080a11" stroke="#384057" stroke-width="3"/><rect x="20" y="20" width="430" height="245" rx="12" fill="#0d1120"/><path d="M55 85 H300 M55 125 H385 M55 165 H330 M55 205 H235" stroke="#fff" stroke-opacity=".14" stroke-width="13" stroke-linecap="round"/></g><path d="M880 500 L1040 400 L1460 400 L1300 500 Z" fill="#121622" stroke="#30374b"/>
-<g font-family="Arial,Helvetica,sans-serif"><text x="90" y="90" fill="#8375ff" font-size="17" letter-spacing="7">ANAS.DEV // PORTFOLIO</text><text x="90" y="215" fill="#f5f7ff" font-size="76" font-weight="700">SYED ANAS</text><text x="90" y="292" fill="#f5f7ff" font-size="76" font-weight="700">ALI ASKARI</text><text x="94" y="352" fill="#a0a8ba" font-size="23" letter-spacing="4">FULL STACK DEVELOPER / PRODUCT BUILDER</text><text x="94" y="420" fill="#707a91" font-size="20">Building useful products from interface to infrastructure.</text><text x="94" y="535" fill="#49d6a2" font-size="15" letter-spacing="4">● SYSTEM ONLINE</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#06070c"/>
+    <stop offset=".55" stop-color="#0c1020"/>
+    <stop offset="1" stop-color="#06070c"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="44"/></filter>
+</defs>
+<rect width="1600" height="600" rx="34" fill="url(#bg)"/>
+<circle cx="1270" cy="130" r="220" fill="#6d5dfc" opacity=".18" filter="url(#blur)"/>
+<circle cx="1130" cy="450" r="150" fill="#22d3ee" opacity=".08" filter="url(#blur)"/>
+<g transform="translate(985 110) skewY(-4)">
+  <rect width="430" height="260" rx="22" fill="#090b12" stroke="#30384b" stroke-width="3"/>
+  <rect x="18" y="18" width="394" height="224" rx="12" fill="#0e1222"/>
+  <path d="M55 82 H260 M55 120 H355 M55 158 H300 M55 196 H220" stroke="#fff" stroke-opacity=".14" stroke-width="12" stroke-linecap="round"/>
+  <rect x="55" y="214" width="125" height="20" rx="10" fill="#7c6bea"/>
+</g>
+<path d="M910 470 L1050 385 L1455 385 L1315 470 Z" fill="#121622" stroke="#2c3346"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="90" y="90" fill="#8375ff" font-size="16" letter-spacing="6">ANAS.DEV // PORTFOLIO</text>
+  <text x="90" y="205" fill="#f7f8ff" font-size="70" font-weight="700">SYED ANAS</text>
+  <text x="90" y="275" fill="#f7f8ff" font-size="70" font-weight="700">ALI ASKARI</text>
+  <text x="94" y="330" fill="#a0a9bc" font-size="22" letter-spacing="4">FULL STACK DEVELOPER / PRODUCT BUILDER</text>
+  <text x="94" y="392" fill="#717b91" font-size="19">Clean interfaces. Practical systems. Useful products.</text>
+  <text x="94" y="510" fill="#49d6a2" font-size="14" letter-spacing="4">● SYSTEM ONLINE</text>
+</g>
+</svg>
