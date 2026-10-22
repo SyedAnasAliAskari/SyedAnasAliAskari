@@ -1,5 +1,9 @@
+<h1 align="center">Built to be explored.</h1>
+<p align="center"><b>Syed Anas Ali Askari · Full Stack Developer & Product Builder</b></p>
+<p align="center"><a href="#featured-work">Selected work</a> &nbsp; / &nbsp; <a href="#technology">Technology</a> &nbsp; / &nbsp; <a href="#selected-commercial-work">Commercial projects</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/syedanasaliaskari/">Connect</a></p>
+
 <p align="center">
-  <img src="./assets/hero.png" width="100%" alt="Syed Anas Ali Askari — Full Stack Developer & Product Builder" />
+  <img src="./assets/exhibit.webp" width="100%" alt="Syed Anas Ali Askari — Full Stack Developer & Product Builder" />
 </p>
 
 <p align="center">
@@ -11,7 +15,7 @@
 
 ---
 
-## About Me
+## Behind the work
 
 I'm **Syed Anas Ali Askari**, a Full Stack Developer and Product Builder focused on turning ideas into polished, production-ready web experiences.
 
@@ -59,7 +63,7 @@ What matters most to me is not adding technology for decoration. I like **clean 
 
 **File Sharing & Productivity Platform**
 
-A temporary file-sharing platform built around low-friction workflows including Rooms, Quick Share and Quick Request, with QR sharing, optional password protection and automatic expiry. citeturn0search2
+A temporary file-sharing platform built around low-friction workflows including Rooms, Quick Share and Quick Request, with QR sharing, optional password protection and automatic expiry.
 
 `Rooms` · `Quick Share` · `Quick Request` · `File Tools` · `QR Sharing` · `Analytics`
 
@@ -94,7 +98,7 @@ Mobile-first currency conversion with live/historical rates, persistent history 
 
 **Interior Design & E-Commerce**
 
-Commercial design platform covering interior services, custom material work, portfolio content and online products. citeturn0search0turn0search4
+Commercial design platform covering interior services, custom material work, portfolio content and online products.
 
 `Commercial` · `E-Commerce` · `Private Source`
 
@@ -127,7 +131,7 @@ A commercial web presence created for a biotechnology business with a focus on p
 
 **Product & E-Commerce Website**
 
-A product-focused commercial website presenting Ewoke's product portfolio and brand catalog. citeturn0search3
+A product-focused commercial website presenting Ewoke's product portfolio and brand catalog.
 
 `Commercial` · `Product Catalog` · `Private Source`
 
@@ -168,7 +172,7 @@ A product-focused commercial website presenting Ewoke's product portfolio and br
 
 ---
 
-## Latest Public Repositories
+## Public Repository Index
 
 <!-- AUTO-REPOS:START -->
 This section is automatically refreshed by the included GitHub Action.
