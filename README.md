@@ -1,197 +1,56 @@
-<h1 align="center">Built to be explored.</h1>
-<p align="center"><b>Syed Anas Ali Askari · Full Stack Developer & Product Builder</b></p>
-<p align="center"><a href="#featured-work">Selected work</a> &nbsp; / &nbsp; <a href="#technology">Technology</a> &nbsp; / &nbsp; <a href="#selected-commercial-work">Commercial projects</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/syedanasaliaskari/">Connect</a></p>
-
-<p align="center">
-  <img src="./assets/exhibit.webp" width="100%" alt="Syed Anas Ali Askari — Full Stack Developer & Product Builder" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syedanasaliaskari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/SyedAnasAliAskari?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
-</p>
-
-<p align="center"><sub>Karachi, Pakistan · Full Stack Development · Product Engineering · Web Applications & APIs</sub></p>
-
----
+<div align="center">
+<h1>Built to be explored.</h1>
+<p><b>Syed Anas Ali Askari</b><br>Full Stack Developer & Product Builder · Karachi, Pakistan</p>
+<p><a href="#the-collection">The collection</a> &nbsp; / &nbsp; <a href="#the-toolkit">The toolkit</a> &nbsp; / &nbsp; <a href="#behind-the-work">About</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/syedanasaliaskari/">LinkedIn</a></p>
+<img src="./assets/exhibit.webp" width="100%" alt="The Exhibit — a midnight architectural project gallery"/>
+<p><em>Considered code. Useful experiences.</em></p>
+</div>
 
 ## Behind the work
 
-I'm **Syed Anas Ali Askari**, a Full Stack Developer and Product Builder focused on turning ideas into polished, production-ready web experiences.
+I build web applications, connected backend systems and commercial websites. My work spans file sharing, e-commerce, healthcare, biotech, business tools and experiments.
 
-I work across the full product lifecycle: shaping interfaces, building responsive frontends, designing backend systems and APIs, working with databases, integrating third-party services, deploying applications, and improving them after launch. My projects span file-sharing utilities, SaaS-style products, e-commerce, business systems, healthcare and biotech websites, and experimental product concepts.
+I work with React, TypeScript, Node.js, NestJS, PHP and MySQL, with a focus on clear interfaces and maintainable systems.
 
-What matters most to me is not adding technology for decoration. I like **clean interfaces, maintainable systems, sensible architecture, and products that solve an actual problem**.
+## The toolkit
 
-<table>
-<tr>
-<td width="25%" align="center"><b>Web Apps</b><br><sub>Responsive product experiences</sub></td>
-<td width="25%" align="center"><b>APIs & Backend</b><br><sub>Services, integrations & logic</sub></td>
-<td width="25%" align="center"><b>Product Building</b><br><sub>Idea → prototype → production</sub></td>
-<td width="25%" align="center"><b>Deployment</b><br><sub>Shipping & maintaining products</sub></td>
-</tr>
-</table>
+<p><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,nodejs,nestjs,php,mysql,git,github&perline=6&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Bootstrap, Node.js, NestJS, PHP, MySQL, Git and GitHub"/></p>
 
----
+## The collection
 
-## Technology
+**24 repositories · Products, commercial work and experiments**
 
-<div align="center">
+Images marked *repository artwork* come from the project files. *Concept artwork* is a visual placeholder, not a product screenshot. Private repositories are showcased without exposing their source.
 
-**Frontend**
+<table><tr><td width="50%" valign="top"><h3>01 / LendAFile</h3><img src="./assets/exhibit.webp" width="100%" alt="LendAFile — Concept artwork"/><p><sub>Concept artwork · Products</sub></p><p><b>File Sharing Platform</b></p><p>Temporary file-sharing rooms, Quick Share and Quick Request, with QR sharing and optional password protection.</p><p><code>PHP · JavaScript · Python</code></p><p><a href="https://lendafile.com">Visit website ↗</a> &nbsp; Private source</p></td><td width="50%" valign="top"><h3>02 / Currency Converter</h3><img src="./assets/exhibit.webp" width="100%" alt="Currency Converter — Concept artwork"/><p><sub>Concept artwork · Products</sub></p><p><b>React & NestJS Application</b></p><p>React and NestJS currency conversion application with conversion history and server-side API credential handling.</p><p><code>React · TypeScript · JavaScript</code></p><p><a href="https://ta-solutions.netlify.app/">Visit website ↗</a> &nbsp; <a href="https://github.com/SyedAnasAliAskari/currency_convertor">View repository ↗</a></p></td></tr></table>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&theme=dark" alt="Frontend technologies" />
+<table><tr><td width="50%" valign="top"><h3>03 / Miral Interior</h3><img src="./assets/exhibit.webp" width="100%" alt="Miral Interior — Concept artwork"/><p><sub>Concept artwork · Commercial</sub></p><p><b>Interior Design & E-Commerce</b></p><p>Commercial interior design and e-commerce web project, presenting services, portfolio content and products.</p><p><code>PHP · JavaScript</code></p><p><a href="https://miralinterior.com/">Visit website ↗</a> &nbsp; Private source</p></td><td width="50%" valign="top"><h3>04 / Coupon Website</h3><img src="./assets/exhibits/coupon.webp" width="100%" alt="Coupon Website — Project repository artwork"/><p><sub>Project repository artwork · Commercial</sub></p><p><b>Offers & Promotions Website</b></p><p>Coupon Website is part of my development collection. The Coupon-Website repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td></tr></table>
 
-<br><br>
+<table><tr><td width="50%" valign="top"><h3>05 / Freelancing Website</h3><img src="./assets/exhibits/freelancing.webp" width="100%" alt="Freelancing Website — Project repository artwork"/><p><sub>Project repository artwork · Commercial</sub></p><p><b>Services Website</b></p><p>Freelancing Website is part of my development collection. The Freelancing-Website repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td><td width="50%" valign="top"><h3>06 / Ewoke Vapes</h3><img src="./assets/exhibits/ewoke.webp" width="100%" alt="Ewoke Vapes — Project repository artwork"/><p><sub>Project repository artwork · Commercial</sub></p><p><b>Product Catalogue</b></p><p>Ewoke Vapes is part of my development collection. The Ewoke-Vapes repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p><a href="https://www.ewokevapes.com/pages/products.php">Visit website ↗</a> &nbsp; Private source</p></td></tr></table>
 
-**Backend · Database · Tools**
+<table><tr><td width="50%" valign="top"><h3>07 / Norvartis Biotech</h3><img src="./assets/exhibit.webp" width="100%" alt="Norvartis Biotech — Concept artwork"/><p><sub>Concept artwork · Commercial</sub></p><p><b>Biotechnology Website</b></p><p>Norvartis Biotech is part of my development collection. The Norvartisbiotech-Website repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td><td width="50%" valign="top"><h3>08 / Nexnos Pharma</h3><img src="./assets/exhibits/nexnos.webp" width="100%" alt="Nexnos Pharma — Project repository artwork"/><p><sub>Project repository artwork · Commercial</sub></p><p><b>Pharmaceutical Website</b></p><p>Nexnos Pharma is part of my development collection. The NexnosPharma-Website repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td></tr></table>
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,mysql,git,github,netlify&theme=dark" alt="Backend and development technologies" />
+<table><tr><td width="50%" valign="top"><h3>09 / Reinziel Biotech</h3><img src="./assets/exhibit.webp" width="100%" alt="Reinziel Biotech — Concept artwork"/><p><sub>Concept artwork · Commercial</sub></p><p><b>Biotechnology Website</b></p><p>Reinziel Biotech is part of my development collection. The RenizielBiotech-Website repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td><td width="50%" valign="top"><h3>10 / Beethovmed</h3><img src="./assets/exhibits/beethovmed.webp" width="100%" alt="Beethovmed — Project repository artwork"/><p><sub>Project repository artwork · Commercial</sub></p><p><b>Healthcare Website</b></p><p>Beethovmed is part of my development collection. The Beethovmed-Website repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td></tr></table>
 
-<br>
-<sub>Node.js · NestJS · PHP · MySQL · Git · GitHub · Netlify</sub>
+<table><tr><td width="50%" valign="top"><h3>11 / Saxon Digital</h3><img src="./assets/exhibits/saxon.webp" width="100%" alt="Saxon Digital — Project repository artwork"/><p><sub>Project repository artwork · Commercial</sub></p><p><b>Digital Services Website</b></p><p>Saxon Digital is part of my development collection. The SaxonDigitalTechnologies repository contains the project source.</p><p><code>JavaScript</code></p><p><a href="https://saxondigitaltechnologies.netlify.app/">Visit website ↗</a> &nbsp; Private source</p></td><td width="50%" valign="top"><h3>12 / Spark Digital</h3><img src="./assets/exhibits/spark.webp" width="100%" alt="Spark Digital — Project repository artwork"/><p><sub>Project repository artwork · Commercial</sub></p><p><b>Digital Services Website</b></p><p>Spark Digital is part of my development collection. The SparkDigitalTechnologies repository contains the project source.</p><p><code>JavaScript</code></p><p><a href="https://4edgesolutions.netlify.app/">Visit website ↗</a> &nbsp; Private source</p></td></tr></table>
 
-</div>
+<table><tr><td width="50%" valign="top"><h3>13 / Trademark Counsel</h3><img src="./assets/exhibit.webp" width="100%" alt="Trademark Counsel — Concept artwork"/><p><sub>Concept artwork · Commercial</sub></p><p><b>Professional Services Website</b></p><p>Trademark Counsel is part of my development collection. The TrademarkCounsel repository contains the project source.</p><p><code>PHP</code></p><p><a href="https://trademarketing.netlify.app/">Visit website ↗</a> &nbsp; Private source</p></td><td width="50%" valign="top"><h3>14 / Jacket E-Commerce</h3><img src="./assets/exhibit.webp" width="100%" alt="Jacket E-Commerce — Concept artwork"/><p><sub>Concept artwork · Commercial</sub></p><p><b>E-Commerce Project</b></p><p>Jacket E-Commerce is part of my development collection. The ECommerce_Jacket repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td></tr></table>
 
----
+<table><tr><td width="50%" valign="top"><h3>15 / Picture-in-Picture Extension</h3><img src="./assets/exhibit.webp" width="100%" alt="Picture-in-Picture Extension — Concept artwork"/><p><sub>Concept artwork · Products</sub></p><p><b>Browser Extension</b></p><p>Picture-in-Picture Extension is part of my development collection. The pip-extension repository contains the project source.</p><p><code>JavaScript</code></p><p>Private source</p></td><td width="50%" valign="top"><h3>16 / Ecommerce Crypto</h3><img src="./assets/exhibit.webp" width="100%" alt="Ecommerce Crypto — Concept artwork"/><p><sub>Concept artwork · Experiments</sub></p><p><b>Repository Shell</b></p><p>Ecommerce Crypto is part of my experimental collection. This repository currently has no committed project files.</p><p><code>Repository shell</code></p><p>Private source · No committed files yet</p></td></tr></table>
 
-# Featured Work
+<table><tr><td width="50%" valign="top"><h3>17 / Anxionyx Clinic</h3><img src="./assets/exhibit.webp" width="100%" alt="Anxionyx Clinic — Concept artwork"/><p><sub>Concept artwork · Commercial</sub></p><p><b>Healthcare Website</b></p><p>Anxionyx Clinic is part of my development collection. The anxionyxclinic repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td><td width="50%" valign="top"><h3>18 / Inventory Management</h3><img src="./assets/exhibit.webp" width="100%" alt="Inventory Management — Concept artwork"/><p><sub>Concept artwork · Products</sub></p><p><b>Business Application</b></p><p>Inventory Management is part of my development collection. The InventoryManagement repository contains the project source.</p><p><code>PHP</code></p><p>Private source</p></td></tr></table>
 
-### LendAFile
+<table><tr><td width="50%" valign="top"><h3>19 / Zloxs Pharma</h3><img src="./assets/exhibit.webp" width="100%" alt="Zloxs Pharma — Concept artwork"/><p><sub>Concept artwork · Commercial</sub></p><p><b>Pharmaceutical Website</b></p><p>Zloxs Pharma is part of my development collection. The Zloxs-Pharma repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td><td width="50%" valign="top"><h3>20 / shhh</h3><img src="./assets/exhibit.webp" width="100%" alt="shhh — Concept artwork"/><p><sub>Concept artwork · Experiments</sub></p><p><b>Experimental Repository</b></p><p>shhh is part of my experimental collection. The shhh repository contains the project source.</p><p><code>JavaScript</code></p><p>Private source</p></td></tr></table>
 
-<a href="https://lendafile.com"><img src="./assets/projects/lendafile.svg" width="100%" alt="LendAFile project cover" /></a>
+<table><tr><td width="50%" valign="top"><h3>21 / Crypto E-Commerce</h3><img src="./assets/exhibit.webp" width="100%" alt="Crypto E-Commerce — Concept artwork"/><p><sub>Concept artwork · Experiments</sub></p><p><b>E-Commerce Experiment</b></p><p>Crypto E-Commerce is part of my experimental collection. The CryptoE_Commerce repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td><td width="50%" valign="top"><h3>22 / Helio Neuro Clinic</h3><img src="./assets/exhibits/helio.webp" width="100%" alt="Helio Neuro Clinic — Project repository artwork"/><p><sub>Project repository artwork · Commercial</sub></p><p><b>Healthcare Website</b></p><p>Helio Neuro Clinic is part of my development collection. The HelioNeuroClinic repository contains the project source.</p><p><code>PHP · JavaScript</code></p><p>Private source</p></td></tr></table>
 
-**File Sharing & Productivity Platform**
+<table><tr><td width="50%" valign="top"><h3>23 / GitHub Profile</h3><img src="./assets/exhibit.webp" width="100%" alt="GitHub Profile — Concept artwork"/><p><sub>Concept artwork · Experiments</sub></p><p><b>Developer Profile Repository</b></p><p>GitHub Profile is part of my experimental collection. The SyedAnasAliAskari repository contains the project source.</p><p><code>Python</code></p><p><a href="https://github.com/SyedAnasAliAskari/SyedAnasAliAskari">View repository ↗</a></p></td><td width="50%" valign="top"><h3>24 / Virtual Bluetooth Transmitter</h3><img src="./assets/exhibit.webp" width="100%" alt="Virtual Bluetooth Transmitter — Concept artwork"/><p><sub>Concept artwork · Experiments</sub></p><p><b>Bluetooth Audio Project</b></p><p>Virtual Bluetooth Transmitter is part of my experimental collection. This repository currently has no committed project files.</p><p><code>Repository shell</code></p><p><a href="https://github.com/SyedAnasAliAskari/Virtual-Bluetooth-Transmitter">View repository ↗</a> · No committed files yet</p></td></tr></table>
 
-A temporary file-sharing platform built around low-friction workflows including Rooms, Quick Share and Quick Request, with QR sharing, optional password protection and automatic expiry.
+## Let's build something useful
 
-`Rooms` · `Quick Share` · `Quick Request` · `File Tools` · `QR Sharing` · `Analytics`
+Web applications · Business websites · E-commerce interfaces · APIs & integrations
 
-<a href="https://lendafile.com"><img src="https://img.shields.io/badge/Visit_Website-LendAFile-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit LendAFile" /></a>
-<img src="https://img.shields.io/badge/Source-Private-252525?style=for-the-badge&logo=github&logoColor=white" alt="Private source" />
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Currency Converter
-
-<a href="https://ta-solutions.netlify.app/"><img src="./assets/projects/currency-converter.svg" width="100%" alt="Currency Converter cover" /></a>
-
-**React + NestJS Full-Stack Application**
-
-Mobile-first currency conversion with live/historical rates, persistent history and a backend proxy for API credentials.
-
-`React` · `TypeScript` · `NestJS` · `REST API`
-
-<a href="https://ta-solutions.netlify.app/"><img src="https://img.shields.io/badge/Live_Preview-Open-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Currency Converter preview" /></a>
-<a href="https://github.com/SyedAnasAliAskari/currency_convertor"><img src="https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Currency Converter source" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### Miral Interior
-
-<a href="https://miralinterior.com/"><img src="./assets/projects/miral-interior.svg" width="100%" alt="Miral Interior cover" /></a>
-
-**Interior Design & E-Commerce**
-
-Commercial design platform covering interior services, custom material work, portfolio content and online products.
-
-`Commercial` · `E-Commerce` · `Private Source`
-
-<a href="https://miralinterior.com/"><img src="https://img.shields.io/badge/Visit_Website-Miral_Interior-CB8A4A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Miral Interior" /></a>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Reinziel Biotech
-
-<img src="./assets/projects/reinziel-biotech.svg" width="100%" alt="Reinziel Biotech cover" />
-
-**Biotechnology Web Project**
-
-A commercial web presence created for a biotechnology business with a focus on professional presentation and clear brand communication.
-
-<img src="https://img.shields.io/badge/Source-Private-252525?style=for-the-badge&logo=github&logoColor=white" alt="Private source" />
-
-</td>
-<td width="50%" valign="top">
-
-### Ewoke Vapes
-
-<a href="https://www.ewokevapes.com/pages/products.php"><img src="./assets/projects/ewoke-vapes.svg" width="100%" alt="Ewoke Vapes cover" /></a>
-
-**Product & E-Commerce Website**
-
-A product-focused commercial website presenting Ewoke's product portfolio and brand catalog.
-
-`Commercial` · `Product Catalog` · `Private Source`
-
-<a href="https://www.ewokevapes.com/pages/products.php"><img src="https://img.shields.io/badge/Visit_Website-Ewoke_Vapes-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Ewoke Vapes" /></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected Commercial Work
-
-<table>
-<tr>
-<td width="20%" align="center"><b>Zloxs Pharma</b><br><sub>Pharmaceutical</sub><br><br><img src="https://img.shields.io/badge/Private-Repository-252525?style=flat-square&logo=github" /></td>
-<td width="20%" align="center"><b>Anxionyx Clinic</b><br><sub>Healthcare</sub><br><br><img src="https://img.shields.io/badge/Private-Repository-252525?style=flat-square&logo=github" /></td>
-<td width="20%" align="center"><b>Beethovmed</b><br><sub>Biotechnology</sub><br><br><img src="https://img.shields.io/badge/Private-Repository-252525?style=flat-square&logo=github" /></td>
-<td width="20%" align="center"><b>Nexnos Pharma</b><br><sub>Pharmaceutical</sub><br><br><img src="https://img.shields.io/badge/Private-Repository-252525?style=flat-square&logo=github" /></td>
-<td width="20%" align="center"><a href="https://www.ewokevapes.com/pages/products.php"><b>Ewoke Vapes</b></a><br><sub>E-Commerce</sub><br><br><a href="https://www.ewokevapes.com/pages/products.php"><img src="https://img.shields.io/badge/Visit-Website-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" /></a></td>
-</tr>
-</table>
-
----
-
-## Archive & Experiments
-
-<table>
-<tr>
-<td width="25%" valign="top"><b>Trademark Counsel</b><br><sub>Legal & professional services</sub><br><br><a href="https://trademarketing.netlify.app/"><img src="https://img.shields.io/badge/Archived_Preview-Open-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a></td>
-<td width="25%" valign="top"><b>AMZ Automation</b><br><sub>Amazon-oriented business project</sub><br><br><a href="https://amzautomation.netlify.app/"><img src="https://img.shields.io/badge/Archived_Preview-Open-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a></td>
-<td width="25%" valign="top"><b>Spark Digital</b><br><sub>Digital technology & services</sub><br><br><a href="https://4edgesolutions.netlify.app/"><img src="https://img.shields.io/badge/Archived_Preview-Open-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a></td>
-<td width="25%" valign="top"><b>Saxon Digital</b><br><sub>Digital technology & services</sub><br><br><a href="https://saxondigitaltechnologies.netlify.app/"><img src="https://img.shields.io/badge/Archived_Preview-Open-00C7B7?style=flat-square&logo=netlify&logoColor=white" /></a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Additional past work: Miral Fashions · Norvatis Biotech · Coupon20</sub></p>
-
----
-
-## Public Repository Index
+**[Connect on LinkedIn](https://www.linkedin.com/in/syedanasaliaskari/)** · **[Browse public repositories](https://github.com/SyedAnasAliAskari?tab=repositories)**
 
 <!-- AUTO-REPOS:START -->
-This section is automatically refreshed by the included GitHub Action.
 <!-- AUTO-REPOS:END -->
-
----
-
-<div align="center">
-
-# Let's Build Something Useful.
-
-**Open to interesting products, collaborations and development opportunities.**
-
-<br>
-
-<a href="https://www.linkedin.com/in/syedanasaliaskari/"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/SyedAnasAliAskari?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-
-<br><br>
-<sub>Syed Anas Ali Askari · Full Stack Developer & Product Builder</sub>
-
-</div>
